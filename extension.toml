@@ -1,0 +1,11 @@
+id = "x"
+name = "x"
+description = "x support."
+version = "0.0.1"
+schema_version = 1
+authors = ["Alexandre Frigon <alexandre@frigon.app>"]
+repository = "https://github.com/afrigon/zed-x"
+
+[grammars.x]
+repository = "https://github.com/afrigon/tree-sitter-x"
+commit = "08625b7e1635f69d5fc538c286d52a677649f5ea"
