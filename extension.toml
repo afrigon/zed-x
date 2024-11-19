@@ -8,4 +8,4 @@ repository = "https://github.com/afrigon/zed-x"
 
 [grammars.x]
 repository = "https://github.com/afrigon/tree-sitter-x"
-commit = "08625b7e1635f69d5fc538c286d52a677649f5ea"
+commit = "996c946def7e33638b7902c871c46dd12f351585"
